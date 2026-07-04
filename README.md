@@ -14,7 +14,7 @@
 
 \## 👤 About Me
 
-\- \*\*Name:\*\* Your Name
+\- \*\*Name:\*\* Sadaham Vishwanath
 
 \- \*\*University:\*\* Sri Lanka Institute of Information Technology (SLIIT)
 
@@ -49,115 +49,55 @@
 ```
 
 python-learning/
-
 │
-
 ├── 01-basics/
-
 │   ├── variables.py
-
 │   ├── data\_types.py
-
 │   ├── operators.py
-
 │   ├── user\_input.py
-
 │   └── type\_casting.py
-
 │
-
 ├── 02-control-flow/
-
 │   ├── if\_else.py
-
 │   ├── for\_loops.py
-
 │   ├── while\_loops.py
-
 │   └── match\_case.py
-
 │
-
 ├── 03-functions/
-
 │   ├── basic\_functions.py
-
 │   ├── parameters.py
-
 │   ├── return\_values.py
-
 │   ├── lambda.py
-
 │   └── recursion.py
-
 │
-
 ├── 04-data-structures/
-
 │   ├── lists.py
-
 │   ├── tuples.py
-
 │   ├── sets.py
-
 │   ├── dictionaries.py
-
 │   └── list\_comprehension.py
-
 │
-
 ├── 05-oop/
-
 │   ├── classes\_objects.py
-
 │   ├── constructors.py
-
 │   ├── inheritance.py
-
 │   ├── polymorphism.py
-
 │   └── encapsulation.py
-
 │
-
 ├── 06-modules-packages/
-
 │   ├── built\_in\_modules.py
-
-│   ├── math\_module.py
-
+│   ├── math\_module.p
 │   ├── datetime\_module.py
-
 │   └── random\_module.py
-
 │
-
 ├── 07-file-handling/
+    ├── read\_file.py
+    ├── write\_file.py
+    └── exception\_handling.py
 
-│   ├── read\_file.py
 
-│   ├── write\_file.py
-
-│   └── exception\_handling.py
-
-│
-
-├── 08-mini-projects/
-
-│   ├── calculator/
-
-│   ├── quiz-app/
-
-│   └── expense-tracker/
-
-│
-
-└── notes/
-
-&#x20;   └── python-notes.md
 
 ```
-
 
 
 \---
@@ -172,11 +112,11 @@ python-learning/
 
 |---|-------|--------|-------|
 
-| 01 | Basics (Variables, Data Types, Operators) | ✅ Done | |
+| 01 | Basics (Variables, Data Types, Operators) |  🔄 In Progress | |
 
-| 02 | Control Flow (if/else, loops) | ✅ Done | |
+| 02 | Control Flow (if/else, loops) | ⏳ Not Started | |
 
-| 03 | Functions | 🔄 In Progress | |
+| 03 | Functions |⏳ Not Started | |
 
 | 04 | Data Structures | ⏳ Not Started | |
 
@@ -193,44 +133,6 @@ python-learning/
 \---
 
 
-
-\## 🛠️ Mini Projects
-
-
-
-| Project | Description | Status | Link |
-
-|---------|-------------|--------|------|
-
-| Calculator | Basic calculator using functions | ⏳ Not Started | - |
-
-| Quiz App | Simple terminal quiz game | ⏳ Not Started | - |
-
-| Expense Tracker | Track daily expenses | ⏳ Not Started | - |
-
-
-
-\---
-
-
-
-\## 💡 What I Learned This Week
-
-> I will update this section weekly
-
-
-
-\*\*Week 1 (June 2025)\*\*
-
-\- Learned about variables and data types
-
-\- Practiced type casting
-
-\- Understood difference between list and tuple
-
-
-
-\---
 
 
 
@@ -273,24 +175,6 @@ python 01-basics/variables.py
 \---
 
 
-
-\## 📅 My Learning Timeline
-
-
-
-```
-
-June 2025     → Basics, Control Flow
-
-July 2025     → Functions, Data Structures
-
-August 2025   → OOP
-
-September 2025 → File Handling, Modules
-
-October 2025  → Mini Projects
-
-```
 
 
 
