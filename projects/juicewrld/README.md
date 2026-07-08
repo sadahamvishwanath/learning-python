@@ -7,6 +7,9 @@ The lyrics appear with rhythmic, variable pacing to match the flow of the verse.
 
 ---
 
+
+![Screenshot of Script](image.png)
+
 ## 📖 Overview
 
 When you run the script:
